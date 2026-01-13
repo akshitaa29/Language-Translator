@@ -29,7 +29,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+   font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -45,7 +45,7 @@ body.dark {
   --bg-color: #878683;
   --light-bg-color: #444444;
   --text-color: #fff;
-  --light-text-color: #58575c;
+  --light-text-color: #efeef4;
 }
 
 .container {
@@ -79,7 +79,7 @@ body.dark {
 }
 
 .container .card .heading {
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--light-text-color);
   white-space: nowrap;
